@@ -109,7 +109,6 @@ p {
   width: 90px;
 }
 
-/* version desktop */
 @media (min-width: 800px) {
   .container {
     display: flex;
